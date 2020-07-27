@@ -45,6 +45,8 @@ jobs:
         
     - name: creating build
       run: yarn build
+      env:
+       CI: false
         
     
     - name: Install Surge
