@@ -1,0 +1,33 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.mycard {
+  width: 250px;
+  height: 180px;
+  margin-left: 20px;
+  margin-top: 20px;
+}
+
+.card-area {
+  display: flex;
+  justify-content: center;
+}
+
+.navbar {
+  background-color: rgb(37, 14, 14);
+}
+
+.chart {
+  display: flex;
+  justify-content: center;
+  width: 800px;
+}
+
+.comp{
+  display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+}
